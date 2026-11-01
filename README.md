@@ -1,8 +1,9 @@
-# Employee Management System
+## Developer Information
 
-This is my first Git learning project.
+Project created for learning Git and GitHub.
 
-## Features
+## Technologies
 
-- Employee details
-- Employee information management
+- Python
+- Git
+- GitHub
