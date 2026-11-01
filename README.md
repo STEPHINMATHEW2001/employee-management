@@ -1,9 +1,7 @@
-## Developer Information
+## Employee Salary Management
 
-Project created for learning Git and GitHub.
+New feature added by Developer 2.
 
-## Technologies
-
-- Python
-- Git
-- GitHub
+- View employee salary
+- Update employee salary
+- Calculate annual salary
