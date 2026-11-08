@@ -16,3 +16,6 @@ def get_employee_location():
 
 def get_employee_address():
     print("Employee Address: Bangalore")
+
+def get_employee_department():
+    print("Employee Department: IT")
