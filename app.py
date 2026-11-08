@@ -5,5 +5,5 @@ def get_employee():
     print("Department: Engineering")
 get_employee()
 
-def get_employee_details():
-    print("Department: IT")
+def get_employee_email():
+    print("Employee Email: john@example.com")
