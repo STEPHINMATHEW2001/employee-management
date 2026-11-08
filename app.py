@@ -7,3 +7,6 @@ get_employee()
 
 def get_employee_email():
     print("Employee Email: john@example.com")
+
+def get_employee_phone():
+    print("Employee Phone: 9876543210")
