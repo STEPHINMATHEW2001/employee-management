@@ -13,3 +13,6 @@ def get_employee_phone():
 
 def get_employee_location():
     print("Employee Location: Bangalore")
+
+def get_employee_address():
+    print("Employee Address: Bangalore")
