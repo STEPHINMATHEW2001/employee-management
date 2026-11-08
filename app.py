@@ -10,3 +10,6 @@ def get_employee_email():
 
 def get_employee_phone():
     print("Employee Phone: 9876543210")
+
+def get_employee_location():
+    print("Employee Location: Bangalore")
